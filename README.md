@@ -253,7 +253,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     git remote set-url --push upstream DISABLE  # so that you don't push your personal progress back to the original repo
     ```
 
-1. Mark all boxes with X after you completed your changes:
+1. Mark all boxes with X after you completed your changes: done
 
     ```bash
     git commit -am "Marked personal progress"
